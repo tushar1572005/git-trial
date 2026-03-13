@@ -2,6 +2,6 @@
 
 ## Insall
 
-...bash
+```bash
 npm install
-...
+```
